@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cocytus-Leon
+- 👋 Hi, I’m @Zane-Wiegand
 - 👀 I’m interested in computer programming and skateboard!
 - 🌱 I’m currently learning artifical neural network
 - 📫 My email: cocytusleon@gmail.com
