@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning image processing!
 - 📫 My email: smilingbaboon@126.com
 
-
-[![Readme Card](https://github-readme-stats.vercel.app](https://github.com/Cocytus-Leon/Cocytus-Leon/edit/main/README.md)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cocytus-Leon)](https://github.com/anuraghazra/github-readme-stats)
