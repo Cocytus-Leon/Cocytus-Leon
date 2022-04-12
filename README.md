@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning image processing!
 - 📫 My email: smilingbaboon@126.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaneWiegand&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaneWiegand&show_icons=true&theme=dracula)
