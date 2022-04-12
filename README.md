@@ -7,11 +7,11 @@
   <a href="https://github.com/ZaneWiegand">
     <img
       height="180"
-      src="https://github-readme-stats-amber-sigma.vercel.app/api?username=ZaneWiegand&count_private=true&theme=radius"/>
+      src="https://github-readme-stats-zanewiegand.vercel.app/api?username=ZaneWiegand&count_private=true&theme=radius"/>
   </a>
    <a href="https://github.com/ZaneWiegand">
     <img
       height="180"
-      src="https://github-readme-stats-amber-sigma.vercel.app/api/top-langs/?username=ZaneWiegand&layout=compact&theme=radius" />
+      src="https://github-readme-stats-zanewiegand.vercel.app/api/top-langs/?username=ZaneWiegand&layout=compact&theme=radius" />
   </a>  
 </p>
