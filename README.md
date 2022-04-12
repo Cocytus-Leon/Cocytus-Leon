@@ -7,7 +7,7 @@
   <a href="https://github.com/ZaneWiegand">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=ZaneWiegand&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=dracula"/>
+      src="https://github-readme-stats.vercel.app/api?username=ZaneWiegand&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=dark"/>
   </a>
    <a href="https://github.com/ZaneWiegand">
     <img
