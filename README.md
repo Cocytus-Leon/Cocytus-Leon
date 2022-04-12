@@ -12,6 +12,6 @@
    <a href="https://github.com/ZaneWiegand">
     <img
       height="180"
-      src="https://github-readme-stats-ouxk1jhg5-zanewiegand.vercel.app/api/top-langs/?username=ZaneWiegand&layout=compact&theme=radius" />
+      src="https://github-readme-stats-zanewiegand.vercel.app/api/top-langs/?username=ZaneWiegand&layout=compact&theme=radius" />
   </a>  
 </p>
