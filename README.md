@@ -6,12 +6,12 @@
 <p align="justify">
   <a href="https://github.com/ZaneWiegand">
     <img
-      height="200"
+      height="180"
       src="https://github-readme-stats.vercel.app/api?username=ZaneWiegand&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=dracula"/>
   </a>
    <a href="https://github.com/ZaneWiegand">
     <img
-      height="200"
+      height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaneWiegand&layout=compact&theme=dracula" />
   </a>  
 </p>
