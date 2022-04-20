@@ -7,11 +7,11 @@
     <a href="https://github.com/ZaneWiegand">
     <img
       height="180"
-      src="https://github-readme-stats-zanewiegand.vercel.app/api?username=ZaneWiegand&show_icons=true&count_private=true&theme=swift">
+      src="https://github-readme-stats-zanewiegand.vercel.app//api?username=ZaneWiegand&show_icons=true&count_private=true&theme=swift">
   </a>
     <a href="https://github.com/ZaneWiegand">
     <img
       height="180"
-      src="https://github-readme-stats-zanewiegand.vercel.app/api/top-langs/?username=ZaneWiegand&layout=compact&theme=swift">
+      src="https://github-readme-stats-zanewiegand.vercel.app//api/top-langs/?username=ZaneWiegand&layout=compact&theme=swift">
   </a>  
 </p>
