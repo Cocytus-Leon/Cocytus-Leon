@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ZaneWiegand
-- 👀 I’m interested in computer programming and skateboard!
-- 🌱 I’m currently learning image processing!
+- 👋 Hi, I’m Wenguan Zhang
+- 🌱 I’m currently learning image processing and optical design!
 - 📫 My email: smilingbaboon@126.com
 
 <p align="justify">
